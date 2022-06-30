@@ -22,21 +22,16 @@ Here are some ideas to get you started:
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="http://sanjaykv.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://twitter.com/sanjay_k_v">Twitter</a> -
-  <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p>
+  <a href="https://www.linkedin.com/in/christian-stornelli-30a8071aa/">LinkedIn</a> - 
+  </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Ex-Software Engineer at LTI <br>
-⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
-💬 Ask me about SEO/Data Science<br>
+✨ Student at MQ wanting to pursue a career in Data Science/Anlytics <br>
+💻 Studying a Bachelor of Information Technology with a Major in Data Science <br> 
 <!--- Adding Tech Stack open Section -->
 
-<details>	
+<!--- <details>	
  <summary><b>🛠Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
@@ -57,7 +52,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
-</details> 
+</details>
 
 
 <!--- 1st Section on Curated Articles -->
@@ -92,6 +87,6 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
-
+-->
 <!--- Footer End -->
 <!--- Body End -->
