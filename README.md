@@ -56,8 +56,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 -->
 </details>
 
-<!---
 <!--- 1st Section on Curated Articles -->
+<!---
 <details>	
   <summary><b>📝Curated Articles</b></summary><br>
 
@@ -70,18 +70,15 @@ I write regular blog posts, most of which you will find on my personal website [
 </details> 
 -->
 
-<!---
 <!--- 2nd Section on GitHub Analytics -->
-
-
+<!---
   <summary><b>⚙️GitHub Analytics</b></summary>
 <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  </a>
 -->
 
-<!---
 <!--- 3rd Section on Recent Projects -->
-
+<!---
 <details>	
   <summary><b>📚Recent Projects/Activity</b></summary><br>
   
