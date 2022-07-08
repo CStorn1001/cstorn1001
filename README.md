@@ -50,11 +50,13 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
 <!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<!---
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
+-->
 </details>
 
-
+<!---
 <!--- 1st Section on Curated Articles -->
 <details>	
   <summary><b>📝Curated Articles</b></summary><br>
@@ -66,16 +68,18 @@ I write regular blog posts, most of which you will find on my personal website [
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
 </details> 
+-->
 
-
+<!---
 <!--- 2nd Section on GitHub Analytics -->
 
 
   <summary><b>⚙️GitHub Analytics</b></summary>
 <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  </a>
+-->
 
-
+<!---
 <!--- 3rd Section on Recent Projects -->
 
 <details>	
