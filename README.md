@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
+  <!--- <a href="http://sanjaykv.com/">Portfolio</a> -->
   <a href="https://www.linkedin.com/in/christian-stornelli-30a8071aa/">LinkedIn</a> - 
   </p>
 
