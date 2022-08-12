@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Student at MQ wanting to pursue a career in Data Science/Anlytics <br>
+✨ Student at MQ wanting to pursue a career in Data Science/Analytics <br>
 💻 Studying a Bachelor of Information Technology with a Major in Data Science <br> 
 <!--- Adding Tech Stack open Section -->
 
